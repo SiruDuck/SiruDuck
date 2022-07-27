@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=300&section=header&text=HELLO%20render&fontSize=90)
+
+  ### Hi there 👋
 
 <!--
 **SiruDuck/SiruDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&section=footer)
